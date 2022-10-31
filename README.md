@@ -1,3 +1,6 @@
+A very basic weather app that uses coordinates to track users position and then fetch some core weather-data such as temperature using 
+API-calls to communicate with openweathermap.org. Inputting an API-key in Weather.js is the first requirement to provide functionality for the app and when using a browser for running the app, the permission for using the location must be granted when prompted.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
